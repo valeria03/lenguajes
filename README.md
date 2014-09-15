@@ -1,4 +1,7 @@
-lenguajes de programacion Orientados a Objetos (JAVA)
+Lenguajes de Programacion Orientados a Objetos (JAVA)
+
+
+Temario
 =========
 1. Inicio
     1.1 ¿Qué es la tecnología Java?
