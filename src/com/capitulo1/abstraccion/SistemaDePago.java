@@ -20,6 +20,7 @@ public class SistemaDePago {
         
         float pago=horasTrabajadas*sueldo;
         return pago;
+        
     }
     
 }
