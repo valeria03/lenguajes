@@ -13,14 +13,13 @@ public class SistemaDePago {
 
 
     public static void main(String args[]){
-        System.out.println(hacerPago(20,10));
+     Usuario u = new Usuario();
+     u.setNombre("pedro");
+     u.setHorasTrabajadas(40);
+     u.setSueloBase(3000); 
+     Pago p=new Pago();
+     p.hacerPago(u);
     }
     
-    public static float hacerPago(int horasTrabajadas, float sueldo){
-        
-        float pago=horasTrabajadas*sueldo;
-        return pago;
-        
-    }
     
 }
